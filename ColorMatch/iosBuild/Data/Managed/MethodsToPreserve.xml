@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="buttonListener">
+			<method name="resetGameButton"/>
+		</type>
+		<type fullname="buttonProperty">
+			<method name="pressed"/>
+			<method name="pressed"/>
+			<method name="pressed"/>
+			<method name="pressed"/>
+		</type>
+		<type fullname="ScoreManager">
+			<method name="ResetRecord"/>
+		</type>
+	</assembly>
+</linker>
